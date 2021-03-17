@@ -1,0 +1,20 @@
+@charset "UTF-8"
+ * { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.logo {background: #2B2E3D}
+.logo img {width: 200px;}
+
+.nav-item {background: #2B2E3D}
+.nav-link:hover {color: #DEDDDC}
+.nav-link {color: #AFE0C1}
+
+
+#footer	{
+    color: #AFE0C1;
+    background-color: #2B2E3D;
+    text-align: center;
+    width: auto;
+    height: 2cm;
+	margin-top: 200px;
+	margin-bottom: auto;
+    padding: 7.5mm 0mm 0mm 0mm;
